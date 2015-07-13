@@ -1,6 +1,6 @@
 # Guzera repository
 
-This repository aims to store all source code used in Guzera Project. For now we have one script available:
+This repository aims to store all source code used in Guzera Project. For now we have two scripts available:
 
 * [findGenesInQTLRegions.pl](/findGenesInQTLRegions.pl/)
 * [compare_snps_indels.pl](/compare_snps_indels.pl/)
